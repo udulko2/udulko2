@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Projects
+## Hi there 👋
 
 **Front (React | TypeScript | JavaScript):**
 - vacancy-viewer-app ([sources](https://github.com/udulko2/vacancy-viewer-app) | [demo](https://luminous-a910e1.netlify.app/search))
