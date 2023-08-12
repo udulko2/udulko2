@@ -1,5 +1,5 @@
 ## Hi there 👋
-Below are projects that reflect my knowledge and skills on the current moment.
+Below are the latest projects I've been working on.
 Links to repos and demos (if available) are shown next to the project name.
 Technologies used for solutions are listed in the description of repositories.
 
