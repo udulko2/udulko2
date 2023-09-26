@@ -1,7 +1,4 @@
 ## Hi there 👋
-Below are the latest projects I've been working on.
-Links to repos and demos (if available) are shown next to the project name.
-Technologies used for solutions are listed in the description of repositories.
 
 **Front (React | TypeScript | JavaScript):**
 - vacancy-viewer-app ([repo](https://github.com/udulko2/vacancy-viewer-app) | [demo](https://luminous-a910e1.netlify.app/search))
