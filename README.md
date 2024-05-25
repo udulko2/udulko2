@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Front (React | TypeScript | JavaScript):**
+**Front (React | JavaScript):**
 - vacancy-viewer-app ([repo](https://github.com/udulko2/vacancy-viewer-app) | [demo](https://luminous-a910e1.netlify.app/search))
 - library-part-app ([repo](https://github.com/udulko2/library-part-app) | [demo](https://library-part-far3ca.netlify.app/))
 - react-redux-app ([repo](https://github.com/udulko2/React-Redux-App))
