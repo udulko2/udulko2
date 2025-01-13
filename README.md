@@ -9,8 +9,8 @@
 - jwt-auth ([repo](https://github.com/udulko2/jwt-auth))
 
 **Markup (HTML/CSS):**
-- oculus-html ([repo](https://github.com/udulko2/oculus-html) | [demo](https://oculus-html-4797c2.netlify.app))
 - tea-html ([demo](https://tea-html-9ed4dd.netlify.app))
+- oculus-html ([repo](https://github.com/udulko2/oculus-html) | [demo](https://oculus-html-4797c2.netlify.app))
 
 
 <!--
